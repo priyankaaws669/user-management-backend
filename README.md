@@ -70,7 +70,7 @@ node server.js
 
 ## 🔗 Frontend Repository
 
-(Add your frontend repo link here)
+https://github.com/priyankaaws669/user-management-frontend
 
 ---
 
