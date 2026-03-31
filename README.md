@@ -88,12 +88,3 @@ https://github.com/priyankaaws669/user-management-frontend
 * Understanding req.body and req.params
 
 ---
-
-## 📈 Future Improvements
-
-* Integrate MongoDB database
-* Add authentication (JWT)
-* Add input validation
-* Error handling improvements
-
----
