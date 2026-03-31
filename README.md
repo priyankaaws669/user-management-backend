@@ -57,6 +57,12 @@ package.json
 * Server runs on port 3000
 * Accessible via public IP
 
+### 🔗 API Base URL
+http://13.218.149.47:3000
+
+Example:
+GET: http://13.218.149.47:3000/users/get
+
 ---
 
 ## 🧪 Run Locally
